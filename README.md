@@ -179,9 +179,36 @@ On the computer create a folder which name is the ID of the device. You can then
 </p>
 
 ---
-## License
+## License & acknowledgement
 
-This project is licensed under the GNU General Public License. You may redistribute and/or modify it under the terms of the [GPL version 3](https://www.gnu.org/licenses/gpl-3.0.html) (or any later version) as published by the Free Software Foundation.
 
-For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the GNU General Public License. You may redistribute and/or modify it under the terms of the [GPL version 3](https://www.gnu.org/licenses/gpl-3.0.html) (or any later version) as published by the Free Software Foundation.  For more details, see the [LICENSE](LICENSE) file.
+
+If you use this code or methodology in your research, please cite our paper:
+
+Healy, G. N., Melendez-Calderon, A., Kaab, S., Bongers, N., Heseltine, K. A., Yue, C. H., Thomas, G., & Clark, B. K. (2025). Development, validation, acceptability and usability of a device-based system to measure sit-stand desk usage. Applied Ergonomics, 126, 104490. https://doi.org/https://doi.org/10.1016/j.apergo.2025.104490 
+
+```code
+@article{HEALY2025104490,
+author = {Genevieve N. Healy, Alejandro Melendez-Calderon, Sami Kaab, Noah Bongers, Katherine A. Heseltine, Chan Hi Yue, George Thomas, Bronwyn K. Clark}
+title = {Development, validation, acceptability and usability of a device-based system to measure sit-stand desk usage},
+journal = {Applied Ergonomics},
+volume = {126},
+pages = {104490},
+year = {2025},
+issn = {0003-6870},
+doi = {https://doi.org/10.1016/j.apergo.2025.104490},
+url = {https://www.sciencedirect.com/science/article/pii/S0003687025000262},
+}
+```
+
+---
+## Contributions to Hardware & Software development
+
+- **DSP Conceptualization:** Genevieve N. Healy, Alejandro Melendez-Calderon
+- **Engineering supervision:**  Alejandro Melendez-Calderon
+- **System design & architecture (hardware & software):**  Alejandro Melendez-Calderon, Sami Kaab
+- **Development (hardware & software):**  Sami Kaab
+
+
 
